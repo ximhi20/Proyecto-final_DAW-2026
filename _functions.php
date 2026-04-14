@@ -1,4 +1,6 @@
 <?php
+    require_once "_config.php";
+
     function incEscritura($actual){
         switch($actual){
             case "titulo":
@@ -13,5 +15,9 @@
             default:
                 echo "Proyecto final";
         }
+    }
+
+    function inc($zona){
+        include ENLAZAR[$zona];
     }
 ?>
