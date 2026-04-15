@@ -5,13 +5,21 @@
         switch($actual){
             case "titulo":
                 global $titulo;
-                if($titulo){
+                if ($titulo) {
                     echo $titulo;
                 }
-                else{
+                else {
                     echo "Proyecto";
                 }
                 break;
+            case "h1":
+                global $h1;
+                if ($h1) {
+                    echo $h1;
+                }
+                else {
+                    echo "Proyecto";
+                }
             default:
                 echo "Proyecto final";
         }

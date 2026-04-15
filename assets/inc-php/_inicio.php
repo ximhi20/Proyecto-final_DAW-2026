@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-
+        <h1><?php incEscritura("h1"); ?></h1>
     </header>
 
     <main>
