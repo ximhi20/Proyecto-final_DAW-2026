@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+section.lista{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+section.lista div{
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+}

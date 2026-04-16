@@ -1,0 +1,108 @@
+{
+    "general": {
+            "nombreGen": "Kingdom Hearts",
+            "abrevGen": "KH"
+    },
+    "juegos": [ 
+        {
+            "original": "",
+            "abrevOrig": "",
+            "lanzOrig": "2002",
+            "dlc": false,
+            "peli": false,
+            "extra": "Final Mix",
+            "abrevExt": "FM",
+            "lanzExt": "2002"
+        },
+        {
+            "original": "Chain of Memories",
+            "abrevOrig": "COM",
+            "lanzOrig": "2004",
+            "dlc": false,
+            "peli": false,
+            "extra": "Re: Chain of Memories",
+            "abrevExt": "ReCOM",
+            "lanzExt": "2007"
+        },
+        {
+            "original": "II",
+            "abrevOrig": "II",
+            "lanzOrig": "2005",
+            "dlc": false,
+            "peli": false,
+            "extra": "II Final Mix",
+            "abrevExt": "IIFM",
+            "lanzExt": "2007"
+        },
+        {
+            "original": "Coded",
+            "abrevOrig": "Coded",
+            "lanzOrig": "2009",
+            "dlc": false,
+            "peli": true,
+            "extra": "Re:coded",
+            "abrevExt": "Re:coded",
+            "lanzExt": "2010"
+        },
+        {
+            "original": "358/2 Days",
+            "abrevOrig": "358/2 Days",
+            "lanzOrig": "2009",
+            "dlc": false,
+            "peli": true,
+            "extra": null,
+            "abrevExt": null,
+            "lanzExt": null
+        },
+        {
+            "original": "Birth by Sleep",
+            "abrevOrig": "BBS",
+            "lanzOrig": "2010",
+            "dlc": false,
+            "peli": false,
+            "extra": "Birth by Sleep Final Mix",
+            "abrevExt": "BBSFM",
+            "lanzExt": "2011"
+        },
+        {
+            "original": "3D: Dream Drop Distance",
+            "abrevOrig": "3D",
+            "lanzOrig": "2012",
+            "dlc": false,
+            "peli": false,
+            "extra": "Dream Drop Distance HD",
+            "abrevExt": "DDD",
+            "lanzExt": "2017"
+        },
+        {
+            "original": "0.2 Birth by Sleep -A fragmentary passage-",
+            "abrevOrig": "0.2",
+            "lanzOrig": "2017",
+            "dlc": false,
+            "peli": false,
+            "extra": null,
+            "abrevExt": null,
+            "lanzExt": null
+        },
+        {
+            "original": "III",
+            "abrevOrig": "III",
+            "lanzOrig": "2019",
+            "dlc": true,
+            "peli": false,
+            "extra": "III Re 𝄌 Mind",
+            "abrevExt": "ReꚚMind",
+            "lanzExt": "2020"
+        },
+        {
+            "original": "Melody of Memory",
+            "abrevOrig": "MOM",
+            "lanzOrig": "2020",
+            "dlc": false,
+            "peli": false,
+            "extra": null,
+            "abrevExt": null,
+            "lanzExt": null
+        }
+    ]
+}
