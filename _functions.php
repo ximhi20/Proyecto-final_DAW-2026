@@ -33,11 +33,15 @@
     function kh(){
         global $infoKH;
         foreach ($infoKH["juegos"] as $id => $info){
-            echo "
-                <div id='$id'>
-                <h2>{$infoKH["general"]["nombreGen"]} {$info["original"]}</h2>
-                <p>Tiene la abreviatura: {$infoKH["general"]["abrevGen"]} {$info["abrevOrig"]}</p>
-            ";
+            echo "<div id='$id'><h2>{$infoKH["general"]["nombreGen"]}";
+            if ($info["original"]) {
+                echo " {$info["original"]}";
+            }
+            echo "</h2><p>Tiene como abreviatura {$infoKH["general"]["abrevGen"]}";
+            if ($info["abrevOrig"]){
+                echo " {$info["abrevOrig"]}";
+            }
+            echo " y salió en {$info["lanzOrig"]}</p>";
             if ($info["extra"]){
                 if ($info["dlc"]) {
                     echo "<p>Se le añadió el DLC ";
@@ -45,7 +49,7 @@
                 else {
                     echo "<p>Fue remasterizado ";
                 }
-                echo "con el nombre: {$infoKH["general"]["nombreGen"]} {$info["extra"]}, abreviado como {$infoKH["general"]["abrevGen"]} {$info["abrevExt"]}.</p>";
+                echo "con el nombre {$infoKH["general"]["nombreGen"]} {$info["extra"]}, abreviado como {$infoKH["general"]["abrevGen"]} {$info["abrevExt"]} y siendo publicado en {$info["lanzExt"]}.</p>";
                 if ($info["peli"]){
                     echo "<p>También existe una película con un resumen de la trama.</p>";
                 }

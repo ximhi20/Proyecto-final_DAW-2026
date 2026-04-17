@@ -11,6 +11,7 @@ section.lista{
 }
 
 section.lista div{
+    padding: 5px;
     max-width: 300px;
     margin: 10px;
     border-radius: 10px;
