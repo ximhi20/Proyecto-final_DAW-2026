@@ -12,7 +12,9 @@
             "peli": false,
             "extra": "Final Mix",
             "abrevExt": "FM",
-            "lanzExt": 2002
+            "lanzExt": 2002,
+            "opening": "_dLOO2SbdH0",
+            "img": "https://kh.wiki.gallery/images/2/2e/Kingdom_Hearts_Logo_KH.png"
         },
         {
             "original": "Chain of Memories",
@@ -22,7 +24,9 @@
             "peli": false,
             "extra": "Re: Chain of Memories",
             "abrevExt": "ReCOM",
-            "lanzExt": 2007
+            "lanzExt": 2007,
+            "opening": "igILOGOZuS0",
+            "img": "https://kh.wiki.gallery/images/2/2a/Kingdom_Hearts_Chain_of_Memories_Logo_KHCOM.png"
         },
         {
             "original": "II",
@@ -32,7 +36,9 @@
             "peli": false,
             "extra": "II Final Mix",
             "abrevExt": "IIFM",
-            "lanzExt": 2007
+            "lanzExt": 2007,
+            "opening": "im5tc4fcg5w",
+            "img": "https://kh.wiki.gallery/images/8/86/Kingdom_Hearts_II_Logo_KHII.png"
         },
         {
             "original": "Coded",
@@ -42,7 +48,9 @@
             "peli": true,
             "extra": "Re:coded",
             "abrevExt": "Re:coded",
-            "lanzExt": 2010
+            "lanzExt": 2010,
+            "opening": "AVUUiRcATeI",
+            "img": "https://kh.wiki.gallery/images/c/c6/Kingdom_Hearts_coded_Logo_KHC.png"
         },
         {
             "original": "358/2 Days",
@@ -52,7 +60,9 @@
             "peli": true,
             "extra": null,
             "abrevExt": null,
-            "lanzExt": null
+            "lanzExt": null,
+            "opening": "6iqS5N8QH8w",
+            "img": "https://kh.wiki.gallery/images/b/b5/Kingdom_Hearts_358-2_Days_Logo_KHD.png"
         },
         {
             "original": "Birth by Sleep",
@@ -62,7 +72,9 @@
             "peli": false,
             "extra": "Birth by Sleep Final Mix",
             "abrevExt": "BBSFM",
-            "lanzExt": 2011
+            "lanzExt": 2011,
+            "opening": "kU1dehayU2o",
+            "img": "https://kh.wiki.gallery/images/8/8d/Kingdom_Hearts_Birth_by_Sleep_Logo_KHBBS.png"
         },
         {
             "original": "3D: Dream Drop Distance",
@@ -72,7 +84,9 @@
             "peli": false,
             "extra": "Dream Drop Distance HD",
             "abrevExt": "DDD",
-            "lanzExt": 2017
+            "lanzExt": 2017,
+            "opening": "dEce09STScE",
+            "img": "https://kh.wiki.gallery/images/3/3e/Kingdom_Hearts_Dream_Drop_Distance_Logo_KH3D.png"
         },
         {
             "original": "0.2 Birth by Sleep -A fragmentary passage-",
@@ -82,7 +96,9 @@
             "peli": false,
             "extra": null,
             "abrevExt": null,
-            "lanzExt": null
+            "lanzExt": null,
+            "opening": "2aafI3XvKxo",
+            "img": "https://kh.wiki.gallery/images/e/e6/Kingdom_Hearts_0.2_Birth_by_Sleep_-A_fragmentary_passage-_Logo_KH0.2.png"
         },
         {
             "original": "III",
@@ -92,7 +108,9 @@
             "peli": false,
             "extra": "III Re 𝄌 Mind",
             "abrevExt": "ReꚚMind",
-            "lanzExt": 2020
+            "lanzExt": 2020,
+            "opening": "d8MGyUjEW8Q",
+            "img": "https://kh.wiki.gallery/images/5/55/Kingdom_Hearts_III_Logo_KHIII.png"
         },
         {
             "original": "Melody of Memory",
@@ -102,7 +120,9 @@
             "peli": false,
             "extra": null,
             "abrevExt": null,
-            "lanzExt": null
+            "lanzExt": null,
+            "opening": "6MjBp0w7_iw",
+            "img": "https://kh.wiki.gallery/images/3/3e/Kingdom_Hearts_Melody_of_Memory_Logo_KHMOM.png"
         }
     ]
 }

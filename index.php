@@ -1,6 +1,6 @@
 <?php
     $titulo = "KH";
-    $h1 = "Juegos de Kingdom Hearts";
+    $h1 = "Juegos de";
 
     require_once "_functions.php";
     inc("inicio");

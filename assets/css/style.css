@@ -1,6 +1,15 @@
 body{
     text-align: center;
+    justify-content: center;
     background-color: blueviolet;
+}
+
+img{
+    max-width: 100%;
+}
+
+a{
+    color: red;
 }
 
 section.lista{
@@ -16,4 +25,9 @@ section.lista div{
     margin: 10px;
     border-radius: 10px;
     background-color: aqua;
+}
+
+section.lista div details summary{
+    cursor: pointer;
+    margin: 10px;
 }
