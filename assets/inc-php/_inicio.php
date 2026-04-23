@@ -9,7 +9,11 @@
 <body>
     <header>
         <h1><?php incEscritura("h1"); ?></h1>
-        <img src="https://kh.wiki.gallery/images/3/3a/Kingdom_Hearts_Series_Logo.png" alt="Logo de kingdom Hearts general.">
+        <?php
+            if($page == "index"){
+                echo "<img src='https://kh.wiki.gallery/images/3/3a/Kingdom_Hearts_Series_Logo.png' alt='Logo de kingdom Hearts general.'>";
+            }
+        ?>
     </header>
 
     <main>

@@ -27,6 +27,7 @@
     }
 
     function inc($zona){
+        global $page;
         include ENLAZAR[$zona];
     }
 

@@ -1,6 +1,7 @@
 <?php
     $titulo = "KH";
     $h1 = "Juegos de";
+    $page = "index";
 
     require_once "_functions.php";
     inc("inicio");
